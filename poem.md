@@ -1,4 +1,4 @@
-roses are red
-violets are blue
+rose is read
+violet is blue
 he busy on valentine
 the side chick is you
